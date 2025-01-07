@@ -1,7 +1,7 @@
 # Multi-Model Assignment 
 
 ## Overview
-This repository contains the Jupyter Notebook Islam_Monirul_Hw5.ipynb, which is part of a data science homework assignment. The notebook demonstrates data analysis, visualization, and machine learning techniques applied to solve specific problems.
+The notebook demonstrates data analysis, visualization, and machine learning techniques applied to solve specific problems.
 
 ### File Description
 - Data preprocessing steps
