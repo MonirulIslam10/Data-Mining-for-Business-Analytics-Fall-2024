@@ -1,7 +1,7 @@
 # Multi-Model Assignment 
 
 ## Overview
-The notebook demonstrates data analysis, visualization, and machine learning techniques applied to solve specific problems.
+The notebook demonstrates data analysis, visualization, and machine learning techniques applied to predict if a patient has a 10-year risk of developing coronary heart disease (CHD).
 
 ### File Description
 - Data preprocessing steps
