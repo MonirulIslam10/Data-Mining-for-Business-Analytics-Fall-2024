@@ -1,4 +1,4 @@
-# Multi-Model Assignment 
+# Multi-Model Project
 
 ## Overview
 Predict if a patient has a 10-year risk of developing coronary heart disease (CHD).
