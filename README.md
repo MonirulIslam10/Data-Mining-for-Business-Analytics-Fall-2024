@@ -1,13 +1,13 @@
 # Multi-Model Project
 
 ## Overview
-Predict if a patient has a 10-year risk of developing coronary heart disease (CHD).
+Predict if a patient has a 10-year risk of developing coronary heart disease (CHD) using Logistic Regression, KNN, Random Forest, and SVC models.
 
 ## Problem
 The World Health Organization has estimated 12 million deaths occur worldwide every year due to heart disease. Half the deaths in the United States and other developed countries are due to cardiovascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high-risk patients and, in turn, reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease and predict the overall risk. 
 
 ## Source 
-The source dataset is publicly available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes. Variables attribute a potential risk factor. There are both demographic, behavioral, and medical risk factors.
+The source dataset is publicly available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). This dataset contains information on over 4,000 patients, spanning 15 attributes. The variables represent a mix of demographic, behavioral, and medical risk factors, each potentially contributing to patient health outcomes. 
 
 ### Demographic Attributes:
 - gender: Male / Female
